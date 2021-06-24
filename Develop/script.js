@@ -41,7 +41,7 @@ var lowerCase = [
     }return;
     }
   
-    // Use Booleon values for user input
+    // Use Booleon values for user inputcd
     var hasSymbols = confirm(
       'Click OK to confirm including special characters.'
     );
